@@ -2,5 +2,5 @@
 - Criar conta.
 - Sacar.
 - Depositar.
-- Tranesferir.
+- Transferir.
 - Listar contas.
